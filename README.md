@@ -131,8 +131,8 @@ MIT License - Feel free to use this project for learning and personal use.
 
 **Your Name**  
 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-LinkedIn: [@yourprofile](https://linkedin.com/in/yourprofile)  
-GitHub: [@yourusername](https://github.com/yourusername)
+LinkedIn: [@yourprofile](www.linkedin.com/in/dilki-senanayake-5560a7368)  
+GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/DilkiSenanayake))
 
 ---
 
